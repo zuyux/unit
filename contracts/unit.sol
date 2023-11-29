@@ -124,8 +124,4 @@ contract UNIT is ERC20Interface, ApproveAndCallFallBack {
     }
 
     receive() external payable {}
-
-    fallback() external payable {
-        revert("Fallback function not allowed");
-    }
 }
