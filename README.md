@@ -30,10 +30,3 @@ The **UNIT** token serves as the native currency for the METAUNI project, provid
 - [UNIT Detailed Information](https://metauni.club/unit)
 - [UNIT Governance and Management](https://metauni.club/dao)
 
-## Smart Contract
-
-```solidity
-// SPDX-License-Identifier: UNLICENSE
-pragma solidity ^0.8.0;
-
-// Smart contract code here
