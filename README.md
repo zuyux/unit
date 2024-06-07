@@ -23,7 +23,7 @@ The **UNIT** token serves as the native currency for the METAUNI project, provid
 ## Contract Details
 
 - **Contract Address**: [0x922B38b1f36ABc96f4BA8ba1321FF0253Af79d03]
-- **Contract**: [UNIT.sol](contracts/UNIT.sol)
+- **Contract**: [unit.sol](contracts/unit.sol)
 
 ## Resources
 
